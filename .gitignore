@@ -1,0 +1,21 @@
+# Ignore Python bytecode files
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+*.env
+
+# Ignore IDE settings
+.vscode/
+*.code-workspace
+
+# Ignore log files
+*.log
+
+# Ignore Selenium WebDriver executables
+chromedriver
+geckodriver
